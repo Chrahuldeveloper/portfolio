@@ -220,9 +220,9 @@ function HomeView({ setView }: { setView: (view: View) => void }) {
       </div>
       <div className="metrics" aria-label="Career highlights">
         <div><strong>04</strong><span>industry roles</span></div>
-        <div><strong>85+</strong><span>live product users</span></div>
+        {/* <div><strong>85+</strong><span>live product users</span></div> */}
         <div><strong>02</strong><span>hackathon wins</span></div>
-        <div><strong>2026</strong><span>CSE graduate</span></div>
+        <div><strong>2026</strong><span>EEE graduate</span></div>
       </div>
       <p className="scroll-note"><span>↓</span> Select a file from the left, or run a command below.</p>
     </div>
